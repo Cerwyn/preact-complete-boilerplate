@@ -1,4 +1,4 @@
-# my-project
+# PreactJS Complete Boilerplate
 
 ## CLI Commands
 
